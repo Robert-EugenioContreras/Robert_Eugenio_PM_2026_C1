@@ -27,7 +27,7 @@ int main(void)
     float num1 = 0.0, num2 = 0.0, result = 0.0;
 
     do {
-        printf("\n--- CALCULADORA MEJORADA ---\n");
+        printf("\n--- CALCULADORA ROBERT ---\n");
         printf("0-Salir\n1-Sumar\n2-Dividir\n3-Multiplicar\n4-Restar\n5-Raiz Cuadrada\n");
         printf("Seleccione una opcion: ");
         
