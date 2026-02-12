@@ -6,7 +6,7 @@ void Lectura(int [], int);
 void Ordena(int [], int);
 void Imprime(int [], int);
 
-int main()
+int main(void)
 {
     int TAM, VEC[MAX];
     do {

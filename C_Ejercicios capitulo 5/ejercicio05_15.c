@@ -2,7 +2,7 @@
 
 /* Apuntadores y arreglos */
 
-int main()
+int main(void)
 {
     int X = 5, Y = 8, V[5] = {1, 3, 5, 7, 9};
     int *AX, *AY;

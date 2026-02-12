@@ -9,7 +9,7 @@ float Varianza(int [], int, float);
 float Desviacion(float);
 void Frecuencia(int [], int);
 
-int main()
+int main(void)
 {
     int TAM, VEC[MAX];
     float MED, VAR, DES;

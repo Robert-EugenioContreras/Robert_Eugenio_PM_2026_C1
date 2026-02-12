@@ -5,7 +5,7 @@ El programa, al recibir como datos un arreglo unidimensional de tipo
 entero y un número entero, determina cuántas veces se encuentra el
 número en el arreglo. */
 
-int main()
+int main(void)
 {
     int I, NUM, CUE = 0;
     int ARRE [100];

@@ -4,7 +4,7 @@
 El programa almacena los votos emitidos en una elección en la que hubo cinco
 candidatos e imprime el total de votos que obtuvo cada uno de ellos. */
 
-int main()
+int main(void)
 {
     int ELE [5] = {0};
     int I, VOT;
